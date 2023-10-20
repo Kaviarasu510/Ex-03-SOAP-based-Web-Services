@@ -24,8 +24,6 @@ In the next window, make sure you have selected Server as “GlassFish Server”
 ![4](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/ba86ef64-1e67-4eba-9935-96d4b158fcde)
 
  
-
-
 #### Step 5:
 Your new project will appear in the Projects tab in the left-most part of NetBeans.
 
@@ -76,6 +74,7 @@ Deploying might take time depending on the size of the project.
 
 ### Step 14:
 Once your project is successfully deployed, right-click on your web service name and select “Test Web Service”
+
 
 ![14](https://github.com/DrMalathiSaravanan/Ex-03-SOAP-based-Web-Services/assets/139700114/4c82ecec-fe36-4826-96bb-37dd25bb0f75)
 
